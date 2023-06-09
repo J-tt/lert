@@ -1,0 +1,10 @@
+{
+  "Lemmy": {
+    "Username": "username",
+    "Password": "password",
+    "Url": "https://example.com"
+  },
+  "Server": {
+    "BindAddr": "localhost:8090"
+  }
+}
