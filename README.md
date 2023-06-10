@@ -1,4 +1,6 @@
-# LeRT (**Le**mmy **R**eddit **Translation** Layer)
+# LeRT
+
+***Le**mmy **R**eddit **Translation** Layer*
 
 This project aims to translate the Lemmy API to the Reddit API, such that existing Reddit clients can be easily made compatible with Lemmy.
 
