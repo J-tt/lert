@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/j-tt/LemmyRedditTranslationLayer/pkg/config"
-	"github.com/j-tt/LemmyRedditTranslationLayer/resources"
+	"github.com/j-tt/lert/pkg/config"
+	"github.com/j-tt/lert/resources"
 	_ "go.elara.ws/go-lemmy"
 )
 

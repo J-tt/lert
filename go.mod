@@ -1,4 +1,4 @@
-module github.com/j-tt/LemmyRedditTranslationLayer
+module github.com/j-tt/lert
 
 go 1.20
 
