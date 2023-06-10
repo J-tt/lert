@@ -2,7 +2,7 @@
   "Lemmy": {
     "Username": "username",
     "Password": "password",
-    "Url": "https://example.com"
+    "Url": "https://lemmy.ml"
   },
   "Server": {
     "BindAddr": "localhost:8090"

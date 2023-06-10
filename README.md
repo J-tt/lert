@@ -2,9 +2,13 @@
 
 This project aims to translate the Lemmy API to the Reddit API, such that existing Reddit clients can be easily made compatible with Lemmy.
 
+It is the same effor as [Tafkars](https://github.com/derivator/tafkars/tree/main) but written in Go (as I'm unfamiliar with Rust) and much less featureful (currently).
+
 ## Contributing
 
 If you want to work on mappings, please raise an issue with the feature of the Reddit API you want to emulate before starting, this is to avoid duplicate work.
+
+The biggest help right now, would be building up a test suite of to ensure compatibility and reproducibility.
 
 ## Status
 
